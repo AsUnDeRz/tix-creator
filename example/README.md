@@ -1,4 +1,4 @@
-# tix_creator
+# example
 
 A new flutter module project.
 
